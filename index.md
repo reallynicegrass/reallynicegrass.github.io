@@ -4,6 +4,8 @@ permalink: /
 permalink_name: /home
 title: game.md
 
+detail_image: rng.logo.svg
+
 ---
 
 This is an amazing game, ok TRUST ME IT IS!
