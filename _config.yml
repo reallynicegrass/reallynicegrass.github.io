@@ -1,1 +1,14 @@
+title: "reallynicegrass"
+tagline: "Amazing game!"
+description: "Really Nice Grass game site."
+github_username: reallynicegrass
+baseurl: "/"
+url: "https://tareqdandachi.github.io"
+
+header_pages:
+  - index.md
+  - doc.md
+  
+font-size: small
+
 remote_theme: "tareqdandachi/jekyll-shell-theme"
