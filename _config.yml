@@ -5,6 +5,11 @@ github_username: reallynicegrass
 baseurl: "/"
 url: "https://tareqdandachi.github.io"
 
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 header_pages:
   - index.md
   - doc.md
