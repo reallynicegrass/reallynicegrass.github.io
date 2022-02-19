@@ -3,7 +3,7 @@ tagline: "Amazing game!"
 description: "Really Nice Grass game site."
 github_username: reallynicegrass
 baseurl: "/"
-url: "https://tareqdandachi.github.io"
+url: "https://reallynicegrass.github.io"
 
 plugins:
   - jemoji
