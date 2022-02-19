@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-permalink_name: /home
+permalink_name: /game
 title: game.md
 
 detail_image: rng.logo.svg
