@@ -2,4 +2,4 @@
 
 This is an amazing game, ok TRUST ME IT IS!
 
-<iframe src="https://turbowarp.org/647075236/embed" width="499" height="416" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://turbowarp.org/647075236/embed?username=john&autoplay" width="998" height="832" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
