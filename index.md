@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: Game
+title: game.md
 
 ---
 
