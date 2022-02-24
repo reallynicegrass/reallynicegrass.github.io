@@ -13,6 +13,7 @@ plugins:
 header_pages:
   - index.md
   - doc.md
+  - vid.md
   
 font-size: small
 
